@@ -1,0 +1,29 @@
+{
+  "name": "music-converter",
+  "version": "1.0.0",
+  "description": "converts uncompressed music files to mp3, stripping out unneeded extra content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akataz/musicConverter.git"
+  },
+  "keywords": [
+    "music",
+    "flac",
+    "wmv",
+    "mp3",
+    "converter"
+  ],
+  "author": "Tyrus Brenc (tyrus.brenc@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akataz/musicConverter/issues"
+  },
+  "homepage": "https://github.com/akataz/musicConverter#readme",
+  "dependencies": {
+    "commander": "^2.11.0"
+  }
+}
